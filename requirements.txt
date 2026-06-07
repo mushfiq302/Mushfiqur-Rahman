@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-sqlite3
 passlib
 python-jose
