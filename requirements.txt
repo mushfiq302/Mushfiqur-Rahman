@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-passlib[bcrypt]
+sqlite3
+passlib
 python-jose
